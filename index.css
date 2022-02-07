@@ -1,0 +1,19 @@
+.primary {
+  background-color: #f1a208;
+}
+
+.secondary {
+  background-color: #3d5af1;
+}
+
+.main-color {
+  background-color: #fcfafa;
+}
+
+.card {
+  width: 20rem;
+}
+
+body {
+  background-color: #fcfafa;
+}
