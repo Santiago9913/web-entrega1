@@ -17,3 +17,13 @@
 body {
   background-color: #fcfafa;
 }
+
+.linkedin {
+  width: 30px;
+  height: auto;
+}
+
+.skills-logo {
+  width: 200px;
+  height: auto;
+}
